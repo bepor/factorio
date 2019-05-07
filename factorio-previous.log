@@ -1,0 +1,72 @@
+   0.006 2019-05-05 19:14:07; Factorio 0.17.34 (build 44642, win64, steam)
+   0.006 Operating system: Windows 10 (version 1803) 
+   0.006 Program arguments: "D:\Factorio.v0.17.34\Factorio.v0.17.34\bin\x64\factorio.exe" 
+   0.006 Read data path: D:/Factorio.v0.17.34/Factorio.v0.17.34/data
+   0.006 Write data path: C:/Users/Jonathan/AppData/Roaming/Factorio [832218/1907113MB]
+   0.006 Binaries path: D:/Factorio.v0.17.34/Factorio.v0.17.34/bin
+   0.019 System info: [CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, 12 cores, RAM: 6360/16344 MB, page: 9029/34739 MB, virtual: 4274/134217727 MB, extended virtual: 0 MB]
+   0.020 Display options: [FullScreen: 0] [VSync: 1] [UIScale: custom (125.0%)] [Native DPI: 1] [Screen: 255] [Special: 00] [Lang: en]
+   0.022 Available displays: 1
+   0.022  [0]: \\.\DISPLAY1 - NVIDIA GeForce GTX 750 Ti {0x05, [0,0], 1920x1080, 32bit, 60Hz}
+   0.097 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.190 Initialised Direct3D[0]: NVIDIA GeForce GTX 750 Ti; id: 10de-1380; driver: nvldumdx.dll 25.21.14.1701
+   0.190   D3D Feature Level: 11.0, DXGI 1.5+, SwapChain: 1,discard,-,-,none
+   0.190   [Local Video Memory] Budget: 1706MB, CurrentUsage: 2MB, Reservation: 0/903MB
+   0.190   [Non-Local Vid.Mem.] Budget: 7354MB, CurrentUsage: 0MB, Reservation: 0/3881MB
+   0.190   Tiled resources: Tier 1
+   0.190   Unified Memory Architecture: No
+   0.190   BGR 565 Supported: Yes
+   0.190   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.243 Desktop composition is active.
+   0.243 Graphics settings preset: very-high
+   0.243   Dedicated video memory size 2007 MB
+   0.243 Graphics options: [Graphics quality: high] [Video memory usage: all] [Light scale: 71%] [DXT: high-quality]
+   0.243                   [Max load threads: 32] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Color: 32bit]
+   0.256 DSound: Starting _dsound_update thread
+   0.257 DSound: Enter _dsound_update; tid=9612
+   0.368 Loading mod core 0.0.0 (data.lua)
+   0.480 Loading mod base 0.17.34 (data.lua)
+   0.950 Loading mod base 0.17.34 (data-updates.lua)
+   1.039 Checksum for core: 1564589609
+   1.039 Checksum of base: 3635468829
+   1.503 Loading sounds...
+   2.998 Info PlayerData.cpp:69: Local player-data.json unavailable
+   2.998 Info PlayerData.cpp:74: Cloud player-data.json unavailable
+   3.125 Initial atlas bitmap size is 16384
+   3.160 Created atlas bitmap 16384x16384 [none]
+   3.163 Created atlas bitmap 16384x11396 [none]
+   3.163 Created atlas bitmap 8192x3872 [decal]
+   3.164 Created atlas bitmap 16384x3808 [low-object]
+   3.165 Created atlas bitmap 2048x192 [icon-background, not-compressed, linear-minification, linear-magnification, linear-mip-level, , no-crop, no-scale]
+   3.165 Created atlas bitmap 8192x3552 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   3.166 Created atlas bitmap 16384x6880 [terrain, mipmap, linear-minification, linear-mip-level, no-crop]
+   3.166 Created atlas bitmap 4096x1600 [smoke, mipmap, linear-minification, linear-magnification]
+   3.167 Created atlas bitmap 4096x1392 [not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, no-crop, no-scale]
+   3.167 Created atlas bitmap 8192x1496 [alpha-mask]
+   3.169 Created atlas bitmap 16384x12632 [shadow, linear-magnification, alpha-mask]
+   3.170 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   3.175 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   5.643 Parallel Sprite Loader initialized (threads: 11)
+  11.722 Sprites loaded
+  11.860 Generated mipmaps for atlas [3] of size 16384x3808   
+  11.903 Generated mipmaps for atlas [5] of size 8192x3552   
+  11.956 Generated mipmaps for atlas [6] of size 16384x6880   
+  11.967 Generated mipmaps for atlas [7] of size 4096x1600   
+  11.978 Generated mipmaps for atlas [8] of size 4096x1392   
+  11.989 Generated mipmaps for atlas [11] of size 8192x2352   
+  11.994 Custom inputs active: 6
+  12.079 Factorio initialised
+  20.066 Quitting: window closed.
+  20.223 DSound: Stopping voice
+  20.223 DSound: Joining thread
+  20.224 DSound: Exit _dsound_update; tid=9612
+  20.224 DSound: Waiting for voice to stop ... signaled
+  20.224 DSound: Joined thread
+  20.224 DSound: Destroying thread
+  20.224 DSound: Thread destroyed
+  20.224 DSound: Releasing buffer
+  20.224 DSound: Voice stopped
+  20.224 DSound: Deallocating voice
+  20.224 DSound: Deallocated voice
+  20.271 Steam API shutdown.
+  20.271 Goodbye

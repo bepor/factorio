@@ -1,0 +1,154 @@
+
+{
+  "available-campaign-levels": 
+  {
+    "npe": 
+    {
+      "level-01": "hard"
+    },
+    "tight-spot": 
+    {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": 
+    {
+      "level-01": "hard"
+    }
+  },
+  "finished-campaigns": 
+  {
+    "npe": "easy"
+  },
+  "tutorials": 
+  {
+    "stack-transfers": 
+    {
+      "status": "completed"
+    },
+    "logistic-system-basic": 
+    {
+      "status": "not-suggested-yet"
+    },
+    "construction-robots": 
+    {
+      "status": "suggested"
+    },
+    "trains-basics": 
+    {
+      "status": "suggested"
+    },
+    "trains-ghost-rail-planner": 
+    {
+      "status": "suggested"
+    },
+    "trains-stations": 
+    {
+      "status": "suggested"
+    },
+    "trains-basic-signals": 
+    {
+      "status": "suggested"
+    },
+    "trains-advanced-signals": 
+    {
+      "status": "suggested"
+    }
+  },
+  "service-username": "peepeeehaha",
+  "service-token": "",
+  "last-used-filters": 
+  {
+    "password": "any",
+    "mods": "any",
+    "friends": "any"
+  },
+  "column-ordering": 
+  {
+    "public-index": "name",
+    "public-ascending": true,
+    "lan-index": "name",
+    "lan-ascending": true
+  },
+  "shortcut-bar": 
+  [
+    
+    {
+      "name": "toggle-alt-mode",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "undo",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "copy",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "cut",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "paste",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "import-string",
+      "docked": false,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint",
+      "docked": false,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint-book",
+      "docked": false,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-deconstruction-planner",
+      "docked": false,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-upgrade-planner",
+      "docked": false,
+      "enabled": true
+    },
+    
+    {
+      "name": "toggle-personal-roboport",
+      "docked": false,
+      "enabled": false
+    },
+    
+    {
+      "name": "toggle-equipment-movement-bonus",
+      "docked": true,
+      "enabled": true
+    }
+  ],
+  "last-played-version": 
+  {
+    "game_version": "0.17.34",
+    "build_version": 44642,
+    "build_mode": "steam",
+    "platform": "win64"
+  }
+}
